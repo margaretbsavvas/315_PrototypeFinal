@@ -1,6 +1,6 @@
 # 315_PrototypeFinal
 *****************
-**INTERATION 1**
+_**INTERATION 1**_
 *****************
 Hypothesis: Previously I had the player able to move the camera movements while using 1st person and kept 3rd person's camera movement static. I wanted to reverse this and have the 3rd person camera movement movable and keep 1st person camera's movement satic. I wanted to see if players would still utilize the two different perspectives.
 ----
@@ -11,7 +11,7 @@ I did take into consideration bugs from prototype 3 and prototype 4 when meshing
 There are a few minor bugs that will have to be addressed for the next interation. These bugs include the LevelExit in level 3, where the player jumps to level 4 before being able to jump vertically at the end of the level. Another is the player controller in level 2 where the jump is not enabled and the speed of the player is slowed down drastically, many playetesters were frustated and impatient with this. I also need to remove the friction on objects because often players find themselves stuck to an object being falling, this really sucks in level 3 when trying to dodge the moving objects and in level 4 when navigating up the stairs. 
 I also will need to add a respawn for when players fall off edges, and add collisions to the moving objects in level 3. I would also ensure that he moving objects in level 3 actually kill a player a force them to respawn at the end of the level. I would like the player to die in someway in each level because I feel like it would add some sort difficulty and/or more challange to the game rather than a simple obstacle course. 
 *****************
-**INTERATION 2**
+_**INTERATION 2**_
 *****************
 Hypothesis: If I add a way to die to each level, will this make the level more difficult? Will it make more challenging? Will the player become frustrated? 
 ----
