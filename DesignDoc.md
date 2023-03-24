@@ -13,5 +13,5 @@ I also will need to add a respawn for when players fall off edges, and add colli
 *****************
 _**INTERATION 2**_
 *****************
-Hypothesis: If I add a way to die to each level, will this make the level more difficult? Will it make more challenging? Will the player become frustrated? 
+Hypothesis: If I add a way (or more) to die in each level, will this make the level more challenging? Will the player become frustrated? 
 ----
