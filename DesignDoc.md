@@ -15,3 +15,5 @@ _**INTERATION 2**_
 *****************
 Hypothesis: If I add a way (or more) to die in each level, will this make the level more challenging? Will the player become frustrated? 
 ----
+
+Questions: Is the maze level too easy? 
