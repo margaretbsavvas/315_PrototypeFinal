@@ -24,7 +24,7 @@ I also realized that I was using box collider to prevent players from going thro
 *****************
 _**INTERATION 2**_
 *****************
-NOTE: For this interation, because I was feeling unwell and could not attend class, I hada few friends playtest this interaton. I first had them play the previous iteration (re-saved a copy to my desktop from my previous push to github) and then had them play the newest iteration so that they could properly give me feedback based on my hypothesis. 
+NOTE: For this interation, because I was feeling unwell and could not attend class, I had a few friends playtest this interaton. I first had them play the previous iteration (re-saved a copy to my desktop from my previous push to github) and then had them play the newest iteration so that they could properly give me feedback based on my hypothesis. 
 ---
 Hypothesis: If I switch the dodging level (originally 3) to level 2, and the maze (originally 2) to level 3, will the flow of difficulty feel more progressive to the player? 
 ---
