@@ -37,5 +37,4 @@ The biggest thing I have noticed with players is that they always forget to util
 _**CONCLUSION**_
 *****************
 Overall, I combined and played around with all of my hypothesis. Despite having different intentions, they all followed a similar theme and ambiance. I found this to be a perfect oppportunity to re-use them as various level and add on to them. The music that was added also helps create a more ambiant space like theme, which is exactly what I wanted to achieve. I want players to navigate through the scenes and figure out how they need to exit while utilizing the different perspectives to overcome obstacles. 
-The overall theme is that you are lost in an otherwordly space-like environment and your goal is to search and find your gold. 
-
+The overall theme is that you are lost in an otherwordly space-like environment and your goal is to search and find your gold.
