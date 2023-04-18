@@ -25,6 +25,7 @@ I also realized that I was using box collider to prevent players from going thro
 _**INTERATION 2**_
 *****************
 **NOTE** For this interation, because I was feeling unwell and could not attend class, I hada few friends playtest this interaton. I first had them play the previous iteration (re-saved a copy to my desktop from my previous push to github) and then had them play the newest iteration so that they could properly give me feedback based on my hypothesis. 
+---
 Hypothesis: If I switch the dodging level (originally 3) to level 2, and the maze (originally 2) to level 3, will the flow of difficulty feel more progressive to the player? 
 ---
 After switching the levels and having people play test the old one vs the new one, many playtesters said that it felt more progressive. Although the maze is simple, because of the lighting and the pattern of the walls, it's very easy to get disoriented. I also added ruins, which once a player collides with, they respawn at the begin. There are a few of these through the maze and they are meant to trick the player into thinking they can teleport closer to the level exit. I found that players tend to be stuck on the maze level just as long as the last level. The level with the dodging cubes seemed to be easier for players to get through. I originally had a lot of tunnels and barriers to jump over. However, players found this very repetitive since in the last level, you are essentially jumping barriers and navigating through tunnels. In the end, level 2 ended up just being a dodging objects levels. 
